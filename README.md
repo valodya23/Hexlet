@@ -1,4 +1,1 @@
-Hello, Hexlet!
-# Hexlet
-# new-joob
-# pls
+Hello, Hexlet! How are you?
