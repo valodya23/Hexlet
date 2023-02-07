@@ -1,4 +1,1 @@
-Hello, Hexlet!
-# Hexlet
-# new-joob
-# pls
+No code No pain
