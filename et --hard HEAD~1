@@ -1,0 +1,114 @@
+* [33mcommit 393dc2a9ce049d3c0a8d7d40339f16f45b0d356d[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+[31m|[m Author: volodya23 <www.blackvova@gmail.com>
+[31m|[m Date:   Tue Feb 7 15:57:37 2023 +0600
+[31m|[m 
+[31m|[m     update INFO.md
+[31m|[m 
+* [33mcommit 43809b270c92f86d8394f6cf5fa8c15d57bbd50e[m
+[31m|[m Author: volodya23 <www.blackvova@gmail.com>
+[31m|[m Date:   Tue Feb 7 15:56:58 2023 +0600
+[31m|[m 
+[31m|[m     add new feature and fix something
+[31m|[m 
+* [33mcommit a28ec3224af893f9a6b3946746ee82ac827b8b3e[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+[31m|[m Author: volodya23 <www.blackvova@gmail.com>
+[31m|[m Date:   Tue Feb 7 15:54:28 2023 +0600
+[31m|[m 
+[31m|[m     add content to INFO.md and README.md
+[31m|[m 
+* [33mcommit dcdd3c5b1dc8c8e5ef935b1e9b4b8dbadb6ec219[m
+[31m|[m Author: volodya23 <www.blackvova@gmail.com>
+[31m|[m Date:   Tue Feb 7 15:52:43 2023 +0600
+[31m|[m 
+[31m|[m     add content to INFO.md and README.md
+[31m|[m 
+* [33mcommit fbac7a41e67c181120db556418a0d1a22f73e280[m
+[31m|[m Author: volodya23 <www.blackvova@gmail.com>
+[31m|[m Date:   Tue Feb 7 15:48:21 2023 +0600
+[31m|[m 
+[31m|[m     add content to INFO.md and README.md
+[31m|[m   
+*   [33mcommit 4a4d8d67ee9bb9faf0c77485ec40a13a74144b15[m
+[32m|[m[33m\[m  Merge: d4b3fc9 520c290
+[32m|[m [33m|[m Author: volodya23 <www.blackvova@gmail.com>
+[32m|[m [33m|[m Date:   Tue Feb 7 15:46:12 2023 +0600
+[32m|[m [33m|[m 
+[32m|[m [33m|[m     relise
+[32m|[m [33m|[m 
+[32m|[m * [33mcommit 520c2906d2d12bd86bc51f6933ef9c86a5dab654[m
+[32m|[m [33m|[m Author: volodya23 <www.blackvova@gmail.com>
+[32m|[m [33m|[m Date:   Tue Feb 7 14:33:52 2023 +0600
+[32m|[m [33m|[m 
+[32m|[m [33m|[m     add new content
+[32m|[m [33m|[m 
+* [33m|[m [33mcommit d4b3fc94da10fb0ddc4c242fa09e6d0438e74445[m
+[33m|[m[33m/[m  Author: volodya23 <www.blackvova@gmail.com>
+[33m|[m   Date:   Tue Feb 7 14:48:24 2023 +0600
+[33m|[m   
+[33m|[m       update
+[33m|[m 
+* [33mcommit d45b628b50f21735e133d0c9488406d4209fd549[m
+[33m|[m Author: volodya23 <www.blackvova@gmail.com>
+[33m|[m Date:   Tue Feb 7 14:30:38 2023 +0600
+[33m|[m 
+[33m|[m     delete
+[33m|[m 
+* [33mcommit 1c88ac6b25a7ed540afce7ef472582d4f55e9ab3[m
+[33m|[m Author: volodya23 <www.blackvova@gmail.com>
+[33m|[m Date:   Tue Feb 7 14:27:19 2023 +0600
+[33m|[m 
+[33m|[m     remove people
+[33m|[m 
+* [33mcommit 6d92fab1ada954161a8a9b35a46dd3f8035dca7a[m
+[33m|[m Author: valodya23 <83669401+valodya23@users.noreply.github.com>
+[33m|[m Date:   Tue Feb 7 14:19:40 2023 +0600
+[33m|[m 
+[33m|[m     Delete fofo.txt
+[33m|[m 
+* [33mcommit 366dd0b2fdfdd21384aabd8108aef37d8f958fcc[m
+[33m|[m Author: valodya23 <83669401+valodya23@users.noreply.github.com>
+[33m|[m Date:   Tue Feb 7 14:19:31 2023 +0600
+[33m|[m 
+[33m|[m     Delete fofo
+[33m|[m 
+* [33mcommit de385b9ea7afa8307b5682932e3c5b1c41b5e76f[m
+[33m|[m Author: volodya23 <www.blackvova@gmail.com>
+[33m|[m Date:   Tue Feb 7 13:36:30 2023 +0600
+[33m|[m 
+[33m|[m     add fofo
+[33m|[m 
+* [33mcommit 30e11c7ad980cacbb4e6fa7c4732c89e10296274[m
+[33m|[m Author: volodya23 <www.blackvova@gmail.com>
+[33m|[m Date:   Tue Feb 7 13:27:51 2023 +0600
+[33m|[m 
+[33m|[m     addon
+[33m|[m 
+* [33mcommit 2c94a44b3023c12345741aaad15d8d14b4a97e10[m
+[33m|[m Author: volodya23 <www.blackvova@gmail.com>
+[33m|[m Date:   Tue Feb 7 13:21:07 2023 +0600
+[33m|[m 
+[33m|[m     first commit
+[33m|[m 
+* [33mcommit 19f865d527c660e3feb6370d6918426180e26919[m
+[33m|[m Author: volodya23 <www.blackvova@gmail.com>
+[33m|[m Date:   Tue Jan 31 17:34:16 2023 +0600
+[33m|[m 
+[33m|[m     first commit
+[33m|[m 
+* [33mcommit 1e1e607bab20124255b6e6ff94045cbf49a8f785[m
+[33m|[m Author: volodya23 <www.blackvova@gmail.com>
+[33m|[m Date:   Tue Jan 31 17:19:26 2023 +0600
+[33m|[m 
+[33m|[m     first commit
+[33m|[m 
+* [33mcommit dff8f189e4bdfb88ab9ebe7b8fb3286215339e28[m
+[33m|[m Author: volodya23 <www.blackvova@gmail.com>
+[33m|[m Date:   Tue Jan 31 17:19:04 2023 +0600
+[33m|[m 
+[33m|[m     new
+[33m|[m 
+* [33mcommit d9c9ff096585760c9151d568ba1831afda2c904d[m
+  Author: volodya23 <www.blackvova@gmail.com>
+  Date:   Tue Jan 31 16:57:06 2023 +0600
+  
+      add README.md
